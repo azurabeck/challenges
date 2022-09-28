@@ -1,5 +1,5 @@
 import Home from './PAGES/Home';
-import RPG from './PAGES/rpg';
+import RPG from './PAGES/Rpg';
 import Calc from './PAGES/Calculadora';
 
 
